@@ -1,0 +1,42 @@
+*{
+    width: 1200px;
+    margin: 0 auto;
+}
+.container{
+    width: 1200px;
+    
+}
+
+table{
+    border-collapse: collapse; 
+}
+
+.number, .total{
+    text-align: center;
+}
+th{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #bbb;
+}
+td{
+    color: rgb(56, 184, 216);
+    font-size: 18px;
+}
+td:nth-child(2n){
+    color:rgb(238, 238, 97) ;
+
+}
+th, td{
+    border: 1px #000 solid;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.income{
+    color: rgb(96, 96, 123);
+}
+tr:hover{
+    background-color: #555;
+    cursor: pointer;
+    font-size: 40px;
+}
