@@ -7,12 +7,12 @@
     
 }
 body{
-    background-image: url(/img/poznan-poland-apr-6-2018-bottles-of-global-soft-drink-brands-including-products-of-coca-cola-company-and-pepsico-MGCHJG.jpg);
+    background-image: url(/img/drinks.jpg);
     background-repeat: no-repeat;
 }
 .market-site{
     padding-top: 150px;
-    padding-left: 50px;
+    padding-left: 5px;
 }
 table{
     border-collapse: collapse; 
