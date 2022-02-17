@@ -6,11 +6,9 @@
     width: 1200px;
     
 }
-
 table{
     border-collapse: collapse; 
 }
-
 .number, .total{
     text-align: center;
 }
@@ -38,5 +36,4 @@ th, td{
 tr:hover{
     background-color: #555;
     cursor: pointer;
-    font-size: 40px;
 }
